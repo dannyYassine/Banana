@@ -1,0 +1,17 @@
+{
+  "name": "Banana",
+  "homepage": "https://github.com/dannyYassine/Banana",
+  "authors": [
+    "Danny Yassine <dannyyassine@gmail.com>"
+  ],
+  "description": "A bower package",
+  "main": "index.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
