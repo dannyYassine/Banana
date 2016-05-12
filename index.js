@@ -6,3 +6,8 @@ function helloWorld (selector) {
 	}
 }
 
+function doSomethingWeird(selector) {
+	var element = $(selector)
+	console.log(element)
+}
+
